@@ -1,13 +1,18 @@
 # Hi, I'm Devan
 
-I build open-source hardware and local-first software that connect physical devices, useful tools, and playful interfaces.
+I build open-source tools, hardware, and games. More at **[devanmetz.com](https://devanmetz.com)**.
 
-## Featured projects
+## Open-source software
 
-- 🏹 **[OpenFloat Archery](https://github.com/DevanMetz/Open-Float-Archery)** — a BLE bow sensor and browser dashboard for shot analysis. [Try the demo](https://openfloatarchery.com) · [Contribute](https://github.com/DevanMetz/Open-Float-Archery/blob/main/CONTRIBUTING.md)
-- 📟 **[Tab5 OS](https://github.com/DevanMetz/Tab5OS)** — an open operating environment for the M5Stack Tab5, with apps and hardware tools. [Contribute](https://github.com/DevanMetz/Tab5OS/blob/main/CONTRIBUTING.md)
-- 🎙️ **[OpenMic](https://github.com/DevanMetz/openmic)** — a local Rust microphone cleaner and soundboard for Windows. [Contribute](https://github.com/DevanMetz/openmic/blob/main/CONTRIBUTING.md)
+- 📸 **[OpenSnip](https://github.com/DevanMetz/OpenSnip)** — fast screenshot tool. PrtSc, drag, done. Windows and Linux.
+- 🎙️ **[OpenMic](https://github.com/DevanMetz/openmic)** — local Rust mic cleaner and soundboard. Windows and Linux.
+- 🪶 **[FeatherClick](https://github.com/DevanMetz/featherclick)** — tiny cross-platform autoclicker with human-like timing.
 
-I'm also building [OpenRP](https://github.com/DevanMetz/openrp), a multiplayer browser city, and [Spritefield](https://github.com/DevanMetz/spritefield), a searchable collection of game assets.
+## Play and explore
 
-If you'd like to collaborate, read the project's contribution guide and send a focused pull request. Documentation, testing, and small fixes are welcome.
+- 🃏 **[Poker With Your Friends](https://pokerwithyourfriends.com)** — free online poker nights with friends.
+- 🗺️ **[Free Hunting Map](https://freehuntingmap.com)** — free, offline-first hunting and camping map. [Source](https://github.com/DevanMetz/free-hunting-map)
+
+Also building [Tab5OS](https://github.com/DevanMetz/Tab5OS), [OpenFloat Archery](https://github.com/DevanMetz/Open-Float-Archery), [OpenRP](https://github.com/DevanMetz/openrp), and [Spritefield](https://github.com/DevanMetz/spritefield).
+
+Pull requests welcome — each repo has a contribution guide.
